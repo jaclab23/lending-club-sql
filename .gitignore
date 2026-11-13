@@ -1,0 +1,9 @@
+# Derived artefacts - rebuild with build_db.py, never commit
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+
+# Local practice runs - not part of the published analysis
+answers/drill/
