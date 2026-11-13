@@ -103,6 +103,11 @@ not have, and the loader fails loudly if a state code has no reference row.
 
 Run against the full 1,347,681-row extract.
 
+Ordered by strength of finding rather than by question number: the cross-check
+first, then the three findings, then the two that demonstrate technique. Q4 and
+Q7 return long tables and are omitted here; `results-full.txt` has the complete
+output of all eight.
+
 ### Q8 — the cross-check that matters
 
 ```
